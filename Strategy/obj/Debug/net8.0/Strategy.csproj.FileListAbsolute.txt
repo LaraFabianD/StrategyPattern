@@ -1,0 +1,14 @@
+/home/morph/Strategy/bin/Debug/net8.0/Strategy
+/home/morph/Strategy/bin/Debug/net8.0/Strategy.deps.json
+/home/morph/Strategy/bin/Debug/net8.0/Strategy.runtimeconfig.json
+/home/morph/Strategy/bin/Debug/net8.0/Strategy.dll
+/home/morph/Strategy/bin/Debug/net8.0/Strategy.pdb
+/home/morph/Strategy/obj/Debug/net8.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/morph/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfoInputs.cache
+/home/morph/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfo.cs
+/home/morph/Strategy/obj/Debug/net8.0/Strategy.csproj.CoreCompileInputs.cache
+/home/morph/Strategy/obj/Debug/net8.0/Strategy.dll
+/home/morph/Strategy/obj/Debug/net8.0/refint/Strategy.dll
+/home/morph/Strategy/obj/Debug/net8.0/Strategy.pdb
+/home/morph/Strategy/obj/Debug/net8.0/Strategy.genruntimeconfig.cache
+/home/morph/Strategy/obj/Debug/net8.0/ref/Strategy.dll
