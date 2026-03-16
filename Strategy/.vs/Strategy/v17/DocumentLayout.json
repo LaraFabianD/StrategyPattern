@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAEFCE-99F3-4602-AEE4-C27C0E124215}|..\\atividdae\\atividdae.csproj|e:\\lara\\github\\strategy\\strategypattern\\strategypattern\\atividdae\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAEFCE-99F3-4602-AEE4-C27C0E124215}|..\\atividdae\\TransporteStrategy.csproj|e:\\lara\\github\\strategy\\strategypattern\\strategypattern\\atividdae\\classecarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAEFCE-99F3-4602-AEE4-C27C0E124215}|..\\atividdae\\TransporteStrategy.csproj|e:\\lara\\github\\strategy\\strategypattern\\strategypattern\\atividdae\\classebicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAEFCE-99F3-4602-AEE4-C27C0E124215}|..\\atividdae\\TransporteStrategy.csproj|e:\\lara\\github\\strategy\\strategypattern\\strategypattern\\atividdae\\calculadoraviagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AAEFCE-99F3-4602-AEE4-C27C0E124215}|..\\atividdae\\TransporteStrategy.csproj|e:\\lara\\github\\strategy\\strategypattern\\strategypattern\\atividdae\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4874BE6-E888-E591-1F95-83973CE008EC}|Strategy.csproj|e:\\lara\\github\\strategy\\strategypattern\\strategypattern\\strategy\\atividade\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4874BE6-E888-E591-1F95-83973CE008EC}|Strategy.csproj|solutionrelative:atividade\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4874BE6-E888-E591-1F95-83973CE008EC}|Strategy.csproj|e:\\lara\\github\\strategy\\strategypattern\\strategypattern\\strategy\\strategy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4874BE6-E888-E591-1F95-83973CE008EC}|Strategy.csproj|solutionrelative:strategy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClasseBicicleta.cs",
+              "DocumentMoniker": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\ClasseBicicleta.cs",
+              "RelativeDocumentMoniker": "..\\atividdae\\ClasseBicicleta.cs",
+              "ToolTip": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\ClasseBicicleta.cs",
+              "RelativeToolTip": "..\\atividdae\\ClasseBicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:29:09.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClasseCarro.cs",
+              "DocumentMoniker": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\ClasseCarro.cs",
+              "RelativeDocumentMoniker": "..\\atividdae\\ClasseCarro.cs",
+              "ToolTip": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\ClasseCarro.cs",
+              "RelativeToolTip": "..\\atividdae\\ClasseCarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:28:52.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculadoraViagem.cs",
+              "DocumentMoniker": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\CalculadoraViagem.cs",
+              "RelativeDocumentMoniker": "..\\atividdae\\CalculadoraViagem.cs",
+              "ToolTip": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\CalculadoraViagem.cs",
+              "RelativeToolTip": "..\\atividdae\\CalculadoraViagem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:25:38.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atividdae\\Program.cs",
+              "ToolTip": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\Program.cs",
+              "RelativeToolTip": "..\\atividdae\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:13:33.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\Interface1.cs",
+              "RelativeDocumentMoniker": "..\\atividdae\\Interface1.cs",
+              "ToolTip": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\atividdae\\Interface1.cs",
+              "RelativeToolTip": "..\\atividdae\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:19:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Programa.cs",
+              "DocumentMoniker": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\Strategy\\Atividade\\Programa.cs",
+              "RelativeDocumentMoniker": "Atividade\\Programa.cs",
+              "ToolTip": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\Strategy\\Atividade\\Programa.cs",
+              "RelativeToolTip": "Atividade\\Programa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:09:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Strategy",
+              "DocumentMoniker": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\Strategy\\Strategy.csproj",
+              "RelativeDocumentMoniker": "Strategy.csproj",
+              "ToolTip": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\Strategy\\Strategy.csproj",
+              "RelativeToolTip": "Strategy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T14:08:57.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

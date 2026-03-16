@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kru88C2LZmMqisQakb1wsgtz0N5yzmPuprwiIiPTVNxmOqRjuk8TvR7PynuxTJIVW5OaRDwDVkz9TzcjHHMh7Q==",
+  "dgSpecHash": "1B/ev+FesaM=",
   "success": true,
-  "projectFilePath": "/home/morph/StrategyPattern/Strategy/Strategy.csproj",
+  "projectFilePath": "E:\\Lara\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
